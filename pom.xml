@@ -47,9 +47,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:https://github.com/pittar/spring-petclinic.git</connection>
-		<url>https://github.com/pittar/</url>
-		<developerConnection>scm:git:https://github.com/pittar/spring-petclinic.git</developerConnection>
+		<connection>scm:git:https://github.com/masauve-gitops/spring-petclinic.git</connection>
+		<url>https://github.com/masauve-gitops/</url>
+		<developerConnection>scm:git:https://github.com/masauve-gitops/spring-petclinic.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
